@@ -1,3 +1,5 @@
+#Snake and Apple game using Python
+
 import pygame 
 from pygame.locals import * #imports KEYDOWN
 import time
